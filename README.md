@@ -1,16 +1,11 @@
 # handicraft_product
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Preference Images:
+pixabay.com
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1674287277](https://user-images.githubusercontent.com/48079501/213849735-86996c4c-a71a-4e77-a569-2ccafc3ff911.png)
+![Screenshot_1674287236](https://user-images.githubusercontent.com/48079501/213849762-f9ce0c89-ae65-47cd-8eb8-b2dc92523650.png)
